@@ -26,13 +26,13 @@ Je suis développeuse web fullstack spécialisée en **Laravel** et **WordPress/
 
 Ce qui me définit en tant que développeuse :
 
-- 🧹 **Code propre & maintenable** : je livre du code lisible, commenté, structuré. N'importe quel développeur peut reprendre le projet sans friction.
-- 📅 **Délais toujours tenus** :je m'engage sur des dates claires et je les respecte. Pas de zone grise sur l'avancement.
-- 💬 **Communication fluide** : mises à jour régulières, disponibilité sur les fuseaux européens, réponse sous 48h.
-- 🔁 **Facile à intégrer** : Git, GitHub, Notion, Trello, SLack je m'adapte à vos outils et workflows existants.
-- 🐛 **Débogage rigoureux** : je creuse jusqu'à trouver la vraie cause d'un problème, pas juste un contournement.
-- 🚀 **Orientée livraison** : chaque ligne de code que j'écris a un objectif : faire avancer votre produit.
-- 🔒 **Sens des responsabilités** : projets confidentiels, données sensibles, systèmes critiques : je travaille avec le sérieux que ça demande.
+- 🧹 **Code propre & maintenable** :  je livre du code lisible, commenté, structuré. N'importe quel développeur peut reprendre le projet sans friction.
+- 📅 **Délais toujours tenus** :  je m'engage sur des dates claires et je les respecte. Pas de zone grise sur l'avancement.
+- 💬 **Communication fluide** :  mises à jour régulières, disponibilité sur les fuseaux européens, réponse sous 48h.
+- 🔁 **Facile à intégrer** :  Git, GitHub, Notion, Trello, SLack je m'adapte à vos outils et workflows existants.
+- 🐛 **Débogage rigoureux** :  je creuse jusqu'à trouver la vraie cause d'un problème, pas juste un contournement.
+- 🚀 **Orientée livraison** :  chaque ligne de code que j'écris a un objectif : faire avancer votre produit.
+- 🔒 **Sens des responsabilités** :  projets confidentiels, données sensibles, systèmes critiques : je travaille avec le sérieux que ça demande.
 
 ---
 
